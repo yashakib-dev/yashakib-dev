@@ -42,7 +42,7 @@ Right now, I’m learning by doing - projects, practice, and consistency.
 ## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github,figma,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,mongodb,betterauth,nodejs.expressjs,git,github,figma,c,cpp,java" />
 </p>
 
 ---
