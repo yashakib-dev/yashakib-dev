@@ -16,7 +16,7 @@
 ### Web Developer | CSE Student  
 
 📍 Sylhet, Bangladesh  
-📧 yashakib.dev@gmail.com 
+📧 yashakib.dev@gmail.com <br>
 👨‍💻 https://ya-shakib-portfolio.vercel.app/
 
 ---
