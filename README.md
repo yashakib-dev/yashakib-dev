@@ -1,4 +1,11 @@
-
+<div align="center">
+  <img
+    src="https://i.ibb.co.com/Q3zVfqj1/2.png"
+    alt="Banner"
+    style="width:100%; max-width:1600px;"
+  />
+</div>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Yeakub+Ali+Shakib;Web+Developer;CSE+Student" />
 </p>
