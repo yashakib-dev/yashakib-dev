@@ -19,31 +19,23 @@
   </a>
 </p>
 
-# Yeakub Ali Shakib  
-### Web Developer | CSE Student  
-
-📍 Sylhet, Bangladesh  
-📧 yashakib.dev@gmail.com
----
-
-## About me
-
-Hi, I’m Shakib.  
-I’m currently studying Computer Science & Engineering and learning full-stack web development.
-
-I enjoy building simple web interfaces and improving my problem-solving skills.  
-Right now, I’m learning by doing - projects, practice, and consistency.
+# Hi, I am Yeakub Ali Shakib 👋 
+### Web Developer | React, Next.js, Node.js, Express.js, MongoDB | Building real-world MERN projects 
 
 ---
 
-## What I'm doing now
+## About Me
 
-- Working on React-based projects  
-- Exploring modern frontend tools  
-- Practicing JavaScript regularly  
-- Learning Data Structures & Algorithms  
+ Junior Web Developer from Bangladesh
+
+-  Building full-stack web applications with React, Next.js, Node.js, Express.js, and MongoDB
+-  Experienced with authentication systems, protected routes, JWT, Better Auth, and API integration
+-  Creating responsive and accessible user interfaces using Tailwind CSS and modern frontend practices
+-  Leveraging AI-assisted development tools such as ChatGPT, Claude, Gemini, and GitHub Copilot
+-  Seeking internship and junior developer opportunities to contribute, learn, and grow
 
 ---
+
 
 ## Skills
 
@@ -53,9 +45,31 @@ Right now, I’m learning by doing - projects, practice, and consistency.
 
 ---
 
+##  Featured Projects
+
+| Project | Live | Repository | Tech Stack | Highlights |
+|---|---|---|---|---|
+| IdeaVault | [Live](https://idea-vault-a09.vercel.app/) | [GitHub](https://github.com/yashakib-dev/idea-vault-a09) | Next.js, Express.js, MongoDB, Node.js, JWT | Full-stack platform, authentication, CRUD, comment management |
+| SunCart | [Live](https://ph-a08-b13.vercel.app/) | [GitHub](https://github.com/yashakib-dev/PH-A08-B13) | Next.js, Tailwind CSS, MongoDB, Better Auth | E-commerce experience, Google login, responsive UI |
+| KeenKeeper | [Live](https://ph-a07-b13.vercel.app/) | [GitHub](https://github.com/yashakib-dev/PH-A07-B13) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
+
+---
+
+## Current Focus
+
+- Learning TypeScript, backend architecture, and software engineering best practices
+- Writing better documentation and maintaining clean, scalable codebases
+- Using AI-assisted development tools to improve productivity and debugging
+- Strengthening problem-solving and technical communication skills
+
+---
+
 ## Connect with me
 
 <p align="left">
+  <a href="https://ya-shakib-portfolio.vercel.app/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="48" height="48"/>
+  </a>
   <a href="https://www.linkedin.com/in/yashakib">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
