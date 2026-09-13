@@ -50,6 +50,8 @@
 | Project | Live | Repository | Tech Stack | Highlights |
 |---|---|---|---|---|
 | IdeaVault | [Live](https://idea-vault-a09.vercel.app/) | [GitHub](https://github.com/yashakib-dev/idea-vault-a09) | Next.js, Express.js, MongoDB, Node.js, JWT | Full-stack platform, authentication, CRUD, comment management |
+| SkillPilot | [Live](https://skillpilot-client.vercel.app/) | [GitHub](https://github.com/yashakib-dev/skillpilot-client) | TypeScript, Next.js, Better Auth, MongoDB, Express.js, Node.js, Gemini API| Personalized Mentor, Roadmap Genarator |
+| StudyZone | [Live](https://study-zone-amber.vercel.app/) | [GitHub](https://github.com/yashakib-dev/study-zone) | Next.js, TypeScript, HeroUI, Better Auth, MongoDB, Recharts, Express.js, Node.js | Resources Sharing, analytics dashboard |
 | SunCart | [Live](https://ph-a08-b13.vercel.app/) | [GitHub](https://github.com/yashakib-dev/PH-A08-B13) | Next.js, Tailwind CSS, MongoDB, Better Auth | E-commerce experience, Google login, responsive UI |
 | KeenKeeper | [Live](https://ph-a07-b13.vercel.app/) | [GitHub](https://github.com/yashakib-dev/PH-A07-B13) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
 
